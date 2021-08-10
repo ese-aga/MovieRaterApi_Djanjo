@@ -1,1 +1,1 @@
-# react-project
+# MovieRaterApi built Django
