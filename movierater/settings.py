@@ -26,7 +26,7 @@ SECRET_KEY = config('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = config('DEBUG')
 
-ALLOWED_HOSTS = ['movie-rater-ng.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', '192.168.8.101', 'movie-rater-ng.herokuapp.com']
 
 
 # Application definition
